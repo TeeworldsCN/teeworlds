@@ -2,6 +2,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/teeworlds.svg" alt="Packaging status" align="right">
 </a>
 
+[Original Repository](https://github.com/teeworlds/teeworlds)
 Teeworlds ![GitHub Actions](https://github.com/teeworlds/teeworlds/workflows/Build/badge.svg)
 =========
 
